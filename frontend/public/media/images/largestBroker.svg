@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464" height="335" viewBox="0 0 464 335">
+  <rect width="464" height="335" fill="#fff"/>
+
+  <!-- soft abstract background -->
+  <path d="M116 91 C142 48 184 24 231 24 C274 24 303 48 308 80
+           C313 112 295 139 311 170 C331 208 310 244 273 260
+           C238 275 204 264 173 282 C144 299 109 287 94 261
+           C79 235 90 210 82 183 C73 151 95 119 116 91Z"
+        fill="#fafafa"/>
+  <path d="M104 117 C113 93 128 74 151 61 C169 51 185 45 197 42
+           C178 60 163 76 151 96 C140 114 122 121 104 117Z"
+        fill="#f7f7f7"/>
+
+  <!-- blue horizontal accent -->
+  <rect x="78" y="73" width="122" height="12" rx="1" fill="#347fc4"/>
+
+  <!-- blue small accents -->
+  <path d="M79 162 L93 168 L80 177 Z" fill="#347fc4"/>
+  <rect x="269" y="205" width="24" height="11" rx="1" fill="#347fc4"/>
+  <rect x="280" y="229" width="50" height="12" rx="1" fill="#347fc4"/>
+
+  <!-- decorative dots -->
+  <circle cx="335" cy="22" r="4.5" fill="#df5a61"/>
+  <g fill="#e3b25a">
+    <circle cx="324" cy="58" r="2.7"/><circle cx="348" cy="58" r="2.7"/>
+    <circle cx="324" cy="84" r="2.7"/><circle cx="349" cy="84" r="2.7"/>
+    <circle cx="374" cy="84" r="2.7"/><circle cx="398" cy="84" r="2.7"/>
+    <circle cx="324" cy="108" r="2.7"/><circle cx="349" cy="108" r="2.7"/>
+    <circle cx="374" cy="108" r="2.7"/><circle cx="398" cy="108" r="2.7"/>
+    <circle cx="324" cy="133" r="2.7"/><circle cx="349" cy="133" r="2.7"/>
+    <circle cx="374" cy="133" r="2.7"/><circle cx="398" cy="133" r="2.7"/>
+  </g>
+
+  <!-- trophy handles -->
+  <path d="M186 111 C171 109 164 114 168 128 C172 142 183 150 199 151
+           L199 141 C188 140 181 134 179 126 C177 119 181 117 189 119Z"
+        fill="#f7aa35"/>
+  <path d="M255 111 C270 109 277 114 273 128 C269 142 258 150 242 151
+           L242 141 C253 140 260 134 262 126 C264 119 260 117 252 119Z"
+        fill="#f7aa35"/>
+
+  <!-- trophy cup -->
+  <path d="M184 104 L258 104 L252 135
+           C249 151 239 163 231 168
+           L231 191 L211 191 L211 168
+           C202 163 193 151 190 135Z"
+        fill="#f7aa35"/>
+  <!-- trophy stem/base -->
+  <rect x="207" y="165" width="28" height="29" rx="2" fill="#f7aa35"/>
+  <path d="M204 190 H238 C241 190 243 193 243 196 V201 H199 V196 C199 193 201 190 204 190Z"
+        fill="#f7aa35"/>
+  <rect x="198" y="201" width="46" height="8" rx="1" fill="#e9a02e"/>
+
+  <!-- bottom award icons (simple vector trophy/medal outlines) -->
+  <g fill="none" stroke="#91a6b3" stroke-width="1.5">
+    <path d="M88 279 h10 v5 c0 4-2 6-5 7 c-3-1-5-3-5-7z"/>
+    <path d="M88 281 h-3 c0 4 2 6 5 6 M98 281 h3 c0 4-2 6-5 6"/>
+    <path d="M90 291 h6 M89 294 h8"/>
+    <path d="M18 304 h10 v5 c0 4-2 6-5 7 c-3-1-5-3-5-7z"/>
+    <path d="M18 306 h-3 c0 4 2 6 5 6 M28 306 h3 c0 4-2 6-5 6"/>
+    <path d="M20 316 h6 M19 319 h8"/>
+  </g>
+
+  <!-- award text -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b9ca7">
+    <text x="109" y="288">Economic Times Startup of the Year - 2020</text>
+    <text x="37" y="313">NSE, BSE, MCX - Best Retail Brokerage award - 2018, 2019 &amp; 2020</text>
+  </g>
+</svg>
